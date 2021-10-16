@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+   /* color de fondo boton enviar del formulario  */
+.enviar{
+    color: white;
+    background-color:  rgba(139, 201, 47, 0.979);
+  }
+  .enviar:hover{
+    background-color: #198754;
+  }
+  .total{
+      background-color: rgb(201, 233, 254);
+  }
