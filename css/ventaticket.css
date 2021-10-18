@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+   /* color de fondo boton borrar y resumen del formulario  */
+.borrarResumen{
+    color: white;
+    background-color:  rgba(139, 201, 47, 0.979);
+  }
+  .borrarResumen:hover{
+    background-color: #198754;
+    color: white;
+  }
+  .total{
+      background-color: rgb(201, 233, 254);
+  }
