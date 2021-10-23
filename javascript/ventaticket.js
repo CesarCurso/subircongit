@@ -26,7 +26,7 @@ function resumenFuncion() {
         }/* fin del switch */
    }/* fin del else */
 }/* fin funcion */
-function borraresumen() {
+function borraResumen() {
       document.getElementById("ptotal").innerHTML="Total a Pagar: $";      
       
 }
